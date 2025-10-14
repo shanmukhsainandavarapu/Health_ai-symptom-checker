@@ -1,0 +1,32 @@
+# --- General ---
+# Ignore OS-specific files
+.DS_Store
+*.log
+
+# --- Backend (Python/Flask) ---
+
+# Ignore the environment file containing secret API keys
+backend/.env
+
+# Ignore the SQLite database file. Git is for code, not application data.
+backend/symptom_checker.db
+
+# Ignore Python cache files
+backend/__pycache__/
+backend/*.pyc
+
+
+# --- Frontend (React/Vite) ---
+
+# Ignore the massive folder of downloaded packages
+frontend/node_modules/
+
+# Ignore the production build folder
+frontend/dist/
+
+# Ignore any local environment variables for the frontend
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
