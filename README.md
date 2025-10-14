@@ -18,7 +18,7 @@ This project showcases a range of modern development practices — from building
 ## 🎬 Demo Video
 
 Check out the full demo of the **AI Symptom Checker** in action!  
-Only users with this link can access it (unlisted on YouTube).
+
 
 [Watch the Demo Video](https://youtu.be/kNJ3MY0VRoo)
 
@@ -66,7 +66,7 @@ Only users with this link can access it (unlisted on YouTube).
 ---
 
 ### Case 3: Short Symptom Input
-**Input:** "Headache."  
+**Input:** "Cough."  
 ![Short Symptom](pics/short.png)
 
 
