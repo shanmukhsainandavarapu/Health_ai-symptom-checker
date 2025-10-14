@@ -9,7 +9,7 @@ This project features a polished, animated React frontend and a robust Python Fl
 In an age of information, finding reliable and immediate preliminary health insights can be challenging.  
 The **AI Symptom Checker** was built to address this by providing a simple, intuitive interface where users can describe their symptoms in natural language and receive an instant, AI-generated analysis.
 
-### This tool is designed **for informational purposes**, empowering users with potential avenues of inquiry and structured questions to ask a healthcare professional.
+####  This tool is designed **for informational purposes**, empowering users with potential avenues of inquiry and structured questions to ask a healthcare professional.
 
 This project showcases a range of modern development practices — from building a beautiful, responsive frontend with **React** and **Framer Motion**, to architecting a scalable **Python backend**, and integrating a powerful **LLM** with carefully engineered prompts.
 
